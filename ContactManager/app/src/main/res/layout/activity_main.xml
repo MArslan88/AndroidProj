@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/tan_background"
+    tools:context="com.example.muhammadarslan.contactmanager.MainActivity">
+
+    <TextView
+        android:id="@+id/btnSearch"
+        style="@style/CategoryStyle"
+        android:background="@color/category_numbers"
+        android:text="Search Contact" />
+
+    <TextView
+        android:id="@+id/btnAdd"
+        style="@style/CategoryStyle"
+        android:background="@color/category_family"
+        android:text="Add New Contact" />
+
+    <TextView
+        android:id="@+id/btnDelete"
+        style="@style/CategoryStyle"
+        android:background="@color/category_colors"
+        android:text="Delete Contact" />
+
+    <TextView
+        android:id="@+id/btnUpdate"
+        style="@style/CategoryStyle"
+        android:background="@color/category_phrases"
+        android:text="Update Contact" />
+
+</LinearLayout>

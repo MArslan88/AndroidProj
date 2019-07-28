@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.signup2.MainActivity"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/background"
+        android:scaleType="center"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="SING UP"
+            android:textSize="40dp"
+            android:textAlignment="center"
+            android:textColor="#FAFAFA"
+            android:layout_marginTop="10dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="USERNAME"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="40dp"
+            android:textColor="#FAFAFA"
+            android:textSize="16dp"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="username129"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="40dp"
+            android:textColor="#FAFAFA"
+            android:id="@+id/userName"
+            android:textColorHint="#52fafafa" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="EMAIL"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="40dp"
+            android:textColor="#FAFAFA"
+            android:textSize="16dp"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="username@me.com"
+            android:inputType="textEmailAddress"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="40dp"
+            android:textColor="#FAFAFA"
+            android:id="@+id/email"
+            android:textColorHint="#52fafafa"
+             />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="PASSWORD"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="40dp"
+            android:textColor="#FAFAFA"
+            android:textSize="16dp"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="***********"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="40dp"
+            android:textColor="#FAFAFA"
+            android:id="@+id/password"
+            android:textColorHint="#52fafafa"
+            android:password="true" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="CONFIRMPASSWORD"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="40dp"
+            android:textColor="#FAFAFA"
+            android:textSize="16dp"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="***********"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="40dp"
+            android:textColor="#FAFAFA"
+            android:id="@+id/confPass"
+            android:textColorHint="#52fafafa"
+            android:password="true" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="SUBMIT"
+            android:layout_marginLeft="100dp"
+            android:layout_marginRight="100dp"
+            android:textColor="#FAFAFA"
+            />
+
+
+    </LinearLayout>
+
+
+</RelativeLayout>

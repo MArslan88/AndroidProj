@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="@dimen/list_items_padding">
+
+    <TextView
+        android:id="@+id/section_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/sectionNameTextColor"
+        android:textAppearance="?android:textAppearanceMedium"
+        tools:text="Section Name"/>
+
+    <TextView
+        android:id="@+id/title_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/titleTextColor"
+        android:textSize="16sp"
+        android:maxLines="2"
+        android:ellipsize="end"
+        tools:text="Title text.It is long text field. "/>
+
+    <TextView
+        android:id="@+id/type_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/ContentTypeTextColor"
+        android:textAppearance="?android:textAppearanceMedium"
+        tools:text="Type of content text."/>
+
+    <TextView
+        android:id="@+id/publication_date_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/publishedDateTextColor"
+        tools:text="Published date of the content Text."/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/darker_gray">
+
+    </View>
+
+</LinearLayout>

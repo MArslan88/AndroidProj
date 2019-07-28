@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "219551562335",
+    "firebase_url": "https://movie-review-app-fd4cf.firebaseio.com",
+    "project_id": "movie-review-app-fd4cf",
+    "storage_bucket": "movie-review-app-fd4cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219551562335:android:b94acb52b63145d8",
+        "android_client_info": {
+          "package_name": "com.example.muhammadarslan.androidreviewapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219551562335-2gd8tqgo0bal1up128p9o0sc1ivfj0ig.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.muhammadarslan.androidreviewapp",
+            "certificate_hash": "b9ece896f062a6f7a888c975086ee187151fc292"
+          }
+        },
+        {
+          "client_id": "219551562335-ld1cs2gc526i9csa3fkkpne9na1p7vm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3a20RDX-w7DDKUd-eSdUjQAEciYAgZJM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219551562335-ld1cs2gc526i9csa3fkkpne9na1p7vm8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

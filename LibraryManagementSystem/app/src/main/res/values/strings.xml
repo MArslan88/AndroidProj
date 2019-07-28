@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Library Management System</string>
+
+    <string-array name="user_type">
+        <item>User</item>
+        <item>Admin</item>
+
+
+    </string-array>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "696265497529",
+    "firebase_url": "https://gupandshup.firebaseio.com",
+    "project_id": "gupandshup",
+    "storage_bucket": "gupandshup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696265497529:android:508a6c5d0a28f951",
+        "android_client_info": {
+          "package_name": "com.example.muhammadarslan.gupandshup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696265497529-ke1uhq8odgopej4j7ge2n9vmfh41vlvv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.muhammadarslan.gupandshup",
+            "certificate_hash": "b9ece896f062a6f7a888c975086ee187151fc292"
+          }
+        },
+        {
+          "client_id": "696265497529-p9iq0qoqllpkp96s46ttb6nfha16jih3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeC5Lcn-_wemYFox1O8umltKbqNA62vUc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696265497529-p9iq0qoqllpkp96s46ttb6nfha16jih3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

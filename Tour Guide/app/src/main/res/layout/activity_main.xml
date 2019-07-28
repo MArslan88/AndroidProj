@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.muhammadarslan.tourguide.MainActivity"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/hotel"
+            style="@style/CategoryStyle"
+            android:background="@color/category_hotel"
+            android:text="@string/category_hotel" />
+
+        <TextView
+            android:id="@+id/mall"
+            style="@style/CategoryStyle"
+            android:background="@color/category_mall"
+            android:text="@string/category_mall" />
+
+        <TextView
+            android:id="@+id/resturant"
+            style="@style/CategoryStyle"
+            android:background="@color/category_resturant"
+            android:text="@string/category_resturant" />
+
+        <TextView
+            android:id="@+id/school"
+            style="@style/CategoryStyle"
+            android:background="@color/category_school"
+            android:text="@string/category_school" />
+    </LinearLayout>
+</ScrollView>

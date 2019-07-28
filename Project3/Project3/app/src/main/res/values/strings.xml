@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Project3</string>
+
+    <string name="score">Score</string>
+    <string name="initialScore">0</string>
+    <string name="question1">Question1</string>
+    <string name="question1_value">Which of these selection staements use for test equality in java? </string>
+    <string name="question1_option1_text">if</string>
+    <string name="question1_option2_text">if and switch</string>
+    <string name="question1_option3_text">switch</string>
+    <string name="question1_option4_text">none of the given above</string>
+
+    <string name="question2">Question2</string>
+    <string name="question2_value">What is the process of defining a method in terms of itself, that is a method that calls itself? ? </string>
+    <string name="question2_option1_text">Polymorphism</string>
+    <string name="question2_option2_text">Abstraction</string>
+    <string name="question2_option3_text">Encapsulation</string>
+    <string name="question2_option4_text">Recursion</string>
+
+    <string name="question3">Question3</string>
+    <string name="question3_value">When does Exceptions in Java arises in code sequence? </string>
+    <string name="question3_option1_text">Run Time</string>
+    <string name="question3_option2_text">Compile Time</string>
+    <string name="question3_option3_text">Any time</string>
+    <string name="question3_option4_text">None of the given above</string>
+
+    <string name="question4">Question4</string>
+    <string name="question4_value">What is process of defining two or more methods within same class that have same name but different parameters declaration? </string>
+    <string name="question4_option1_text">Method Overloadong</string>
+    <string name="question4_option2_text">Method Overriding</string>
+    <string name="question4_option3_text">Method hiding</string>
+    <string name="question4_option4_text">Method duplicating</string>
+
+    <string name="question5">Question5</string>
+    <string name="question5_value">In java, A child class reference variable can points to the base class object ? </string>
+    <string name="question5_option1_text">True</string>
+    <string name="question5_option2_text">False</string>
+
+    <string name="question6">Question6</string>
+    <string name="question6_value">In java, keyword "final" is used to prevent the class being inherited? </string>
+    <string name="question6_option1_text">True</string>
+    <string name="question6_option2_text">False</string>
+
+    <string name="question7">Question7</string>
+    <string name="question7_value">Which of the given are keywords of java language?(choose all that apply). </string>
+    <string name="question7_option1_text">native</string>
+    <string name="question7_option2_text">import</string>
+    <string name="question7_option3_text">synchronized</string>
+    <string name="question7_option4_text">goto</string>
+
+    <string name="question8">Question8</string>
+    <string name="question8_value">Which of the followings are not valid java statements?(choose all that apply). </string>
+    <string name="question8_option1_text">int a = 3;</string>
+    <string name="question8_option2_text">boolean isNull = false;</string>
+    <string name="question8_option3_text">float f = 32.5;</string>
+    <string name="question8_option4_text">String my Text = \"Hello World\";</string>
+
+    <string name="submit_button_text">Submit</string>
+
+    <string name="toast_message"></string>
+
+</resources>

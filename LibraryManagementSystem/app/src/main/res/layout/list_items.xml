@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/BookImageView"
+        android:layout_width="81dp"
+        android:layout_height="81dp"
+        app:srcCompat="@drawable/common_google_signin_btn_icon_dark"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <TextView
+        android:id="@+id/bookTextView"
+        android:layout_width="280dp"
+        android:layout_height="79dp"
+        android:text="TextView"
+        android:textSize="20sp"
+        tools:layout_editor_absoluteX="97dp"
+        tools:layout_editor_absoluteY="16dp" />
+</LinearLayout>

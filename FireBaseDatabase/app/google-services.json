@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "549879477520",
+    "firebase_url": "https://firecast-1stproj.firebaseio.com",
+    "project_id": "firecast-1stproj",
+    "storage_bucket": "firecast-1stproj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549879477520:android:6ba4f1edb65a69c0",
+        "android_client_info": {
+          "package_name": "com.example.muhammadarslan.firebasedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549879477520-5t9018bsat6psjinbtu5b7ef12fbf362.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa1BlETevyqgGU9AbRvFdI-9tI0gCFISc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

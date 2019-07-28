@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/tan_background"
+    android:orientation="vertical"
+    tools:context="com.example.muhammadarslan.tourguideapp.MainActivity">
+
+    <TextView
+        android:id="@+id/sights"
+        style="@style/CategoryStyle"
+        android:background="@color/category_numbers"
+        android:text="Sights"
+        />
+    <TextView
+        android:id="@+id/food"
+        style="@style/CategoryStyle"
+        android:background="@color/category_family"
+        android:text="Food"/>
+
+    <TextView
+        android:id="@+id/shops"
+        style="@style/CategoryStyle"
+        android:background="@color/category_colors"
+        android:text="Shops"/>
+
+    <TextView
+        android:id="@+id/info"
+        style="@style/CategoryStyle"
+        android:background="@color/category_phrases"
+        android:text="Info"/>
+</LinearLayout>

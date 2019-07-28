@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">CardViewExample</string>
+    <string-array name="hotel_title">
+        <item>"Pearl Continental"</item>
+        <item>"Marriott Hotel"</item>
+        <item>"Beach Luxury"</item>
+    </string-array>
+
+    <string-array name="hotel_description">
+        <item>"Pearl Continental Hotel is one of the finest hotels in Karachi and is Located in the commercial centre of south central Karachi. Free wifi and Guests who drive enjoy valet and free private parking."</item>
+        <item>"Marriott Hotel is a leading 5-star hotel located in the heart of Karachi, opposite Frere Hall and Park. It enjoys accessibility to and from all directions with plenty of parking space and valet parking to facilitate its guests.The hotel features a state of the art fitness centre, business services, banquet/conference facilities, pool and free wifi is accessible throughout the premises."</item>
+        <item>"Beach Luxury Hotel is set amongst lush tropical gardens and palm trees, offering unique views of the creek leading to Karachi Harbour. The premium hotel boasts restaurants, swimming pool and gym facilities,. Free WiFi is available."</item>        
+    </string-array>
+    
+    <string-array name="contact">
+        <item>"03453235126"</item>
+        <item>"03453647374"</item>
+        <item>"03452534764"</item>
+    </string-array>
+
+    <string-array name="location">
+        <item>"Saddar town"</item>
+        <item>"Abdullah Haroon Road, Karachi, Pakistan"</item>
+        <item>"Moulvi Tamizuddin Khan Road, Karachi, Pakistan"</item>
+    </string-array>
+</resources>

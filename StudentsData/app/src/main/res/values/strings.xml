@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Students Data</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_add_student_data1">AddStudentData1</string>
+    <string name="title_activity_add_student_data">AddStudentData</string>
+    <string name="title_activity_search_student_data">SearchStudentData</string>
+    <string name="title_activity_view_all_data">ViewAllData</string>
+</resources>

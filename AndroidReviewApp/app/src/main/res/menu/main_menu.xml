@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/sign_out_menu"
+        android:title="sign_out"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/add_movie"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="Add Movie"
+        app:showAsAction="always" />
+</menu>
